@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526501706 source:d:\programming\c++\codilityl2oddoccurrencesinarray\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<map>
+
