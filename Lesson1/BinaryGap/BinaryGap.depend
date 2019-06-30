@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525120890 source:d:\programming\c++\codilitylesson1\main.cpp
+	<iostream>
+	<stdio.h>
+
