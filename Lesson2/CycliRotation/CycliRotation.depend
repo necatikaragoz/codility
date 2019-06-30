@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1525378537 source:d:\programming\c++\codilitylesson2cyclirotation\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<ctime>
+	<time.h>
+
