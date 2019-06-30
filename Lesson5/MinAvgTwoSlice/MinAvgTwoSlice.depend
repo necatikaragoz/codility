@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1535568541 source:d:\programming\c++\codility\lesson5\minavgtwoslice\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdio.h>
+	<limits>
+

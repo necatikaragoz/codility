@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1533148947 source:d:\programming\c++\codility\lesson5\genomicrangequery\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdio.h>
+

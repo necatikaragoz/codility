@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1532806008 source:d:\programming\c++\codility\lesson5\passingcars\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<stdio.h>
+	<string.h>
+	<bitset>
+	<cmath>
+

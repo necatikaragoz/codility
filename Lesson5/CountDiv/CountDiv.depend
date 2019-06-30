@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532810339 source:d:\programming\c++\codility\lesson5\countdiv\main.cpp
+	<iostream>
+	<stdio.h>
+
