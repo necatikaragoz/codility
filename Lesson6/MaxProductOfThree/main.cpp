@@ -1,4 +1,4 @@
-#include <QCoreApplication>
+#include <iostream>
 #include <vector>
 #include <iostream>
 #include <string>
@@ -10,6 +10,7 @@
 
 
 using namespace std;
+
 
 void printVector(vector<int> &A)
 {
@@ -51,10 +52,9 @@ int solution(vector<int> &A)
 
 }
 
-int main(int argc, char *argv[])
-{
-    QCoreApplication a(argc, argv);
 
+int main()
+{
     cout << "Max Product of three!" << endl;
 
     std::vector<int> A = {-3, 1, 2, -2, 5, 6};
@@ -88,7 +88,5 @@ int main(int argc, char *argv[])
 
     cout << "retVal3 = " << retVal3 << endl;
 
-
-
-    return a.exec();
+    return 0;
 }
