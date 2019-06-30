@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1532793512 source:d:\programming\c++\codility\lesson4\permcheck\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<stdio.h>
+	<string.h>
+	<bitset>
+	<cmath>
+

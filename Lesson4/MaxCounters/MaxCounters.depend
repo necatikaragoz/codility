@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1532800455 source:d:\programming\c++\codility\lesson4\maxcounters\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<stdio.h>
+	<string.h>
+	<bitset>
+	<cmath>
+
