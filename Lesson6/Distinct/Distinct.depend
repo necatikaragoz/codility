@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553437168 source:d:\programming\c++\codility\lesson6\distinct\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdio.h>
+	<limits>
+	<stdio.h>
+	<map>
+	<algorithm>
+
+1542485635 d:\programming\c++\codility\lesson6\distinct\include\flagcls.h
+
+1542485620 source:d:\programming\c++\codility\lesson6\distinct\src\flagcls.cpp
+	"FlagCls.h"
+
