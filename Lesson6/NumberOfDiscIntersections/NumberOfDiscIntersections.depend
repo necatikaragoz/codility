@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562363026 source:d:\programming\c++\codility\lesson6\numberofdiscintersections\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
