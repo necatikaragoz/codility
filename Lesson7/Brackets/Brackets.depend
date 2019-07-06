@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1562443665 source:d:\programming\c++\codility\lesson7\brackets\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<stack>
+
