@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562530505 source:d:\programming\c++\codility\lesson7\stonewall\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+
