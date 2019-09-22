@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569160453 source:d:\programming\c++\codility\lesson8\equileader\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+	<map>
+
