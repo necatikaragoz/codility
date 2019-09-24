@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569363163 source:d:\programming\c++\codility\lesson9\maxprofit\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+	<map>
+
