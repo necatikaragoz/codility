@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569453022 source:d:\programming\c++\codility\lesson9\maxslicesum\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+
