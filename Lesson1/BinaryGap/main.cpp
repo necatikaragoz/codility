@@ -20,7 +20,9 @@ int solution(int N) {
     bool cntIsActive = false;
     int testData = N;
 
-    for(int bitVal = 0; bitVal < 31 ; bitVal ++)
+    int dataBinaryLength = (sizeof(int) * 8) - 1;
+
+    for(int bitVal = 0; bitVal < dataBinaryLength; bitVal ++)
     {
 
         //if( (1 << bitVal)  & N)
