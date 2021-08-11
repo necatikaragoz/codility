@@ -63,7 +63,7 @@ int solution(int N) {
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Binary Gap Solution" << endl;
 
     int val = 561892;
     int val2 = 529;
