@@ -1,7 +1,7 @@
 # Codility Solutions
 
 This repository includes my solutions of codility lesson tasks.
-You can lear more about Codility [here](https://app.codility.com/programmers/lessons/) .
+You can learn more about Codility [here](https://app.codility.com/programmers/lessons/) .
 
 ## Results
 
